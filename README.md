@@ -13,7 +13,6 @@ Extremely fast Photo and Video organizer. Photos and Videos are organized/archiv
 run `MediaArchiver.rb` from the command line
 
 ```bash
-Commands:
 MediaArchiver.rb -d [0/1/2]    # Enable duplicate detection. 
                             # The mode signifies the action to take
                             # 0 = No duplicate detection. Copy all files
